@@ -2,5 +2,3 @@ streamlit
 numpy
 pandas
 plotly.express
-datetime
-random
