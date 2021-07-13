@@ -1,7 +1,6 @@
-import streamlit
-import numpy
-import pandas
-import plotly.express
-from datetime import datetime
-import datetime
-import random
+streamlit
+numpy
+pandas
+plotly.express
+datetime
+random
